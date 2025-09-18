@@ -1,0 +1,19 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "keywords": ["hello", "hi", "hey", "namaste"],
+      "response": "Hello! I'm here to listen. How are you feeling today?"
+    },
+    {
+      "tag": "sadness",
+      "keywords": ["sad", "lonely", "depressed", "feeling down"],
+      "response": "I'm sorry to hear you're feeling this way. It's okay to feel sad."
+    },
+    {
+      "tag": "thanks",
+      "keywords": ["thanks", "thank you", "thx"],
+      "response": "You're welcome. I'm always here if you need to talk."
+    }
+  ]
+}
