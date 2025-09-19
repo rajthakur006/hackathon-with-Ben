@@ -8599,7 +8599,6 @@
                 "I sense you're always antagonistic towards me"
             ],
             "responses": [
-                "Why do you think so?",
                 "I'm sorry if I have exhibited any sort of behavior to make you think that.",
                 "I assure you, I don't have feelings like humans do. Let's focus on solving the issue.",
                 "I'm here to assist you, regardless of any perceptions. How can I help?",
@@ -9194,9 +9193,6 @@
                 "I'm all ears for a funny story"
             ],
             "responses": [
-                "mental health is not a joke.",
-                "I'm here to talk about serious matters, not jokes.",
-                "Let's focus on meaningful conversations, not jokes.",
                 "I'm not programmed for jokes. Let's discuss something else.",
                 "Humor can be great, but let's stay focused on the topic at hand.",
                 "I'm afraid I don't have any jokes. How about discussing something else?",
@@ -11961,7 +11957,7 @@
         {
             "tag": "user-meditation",
             "patterns": [
-                "i did what you said and i feel a lot better. thank you very much.",
+                "I did what you said and i feel a lot better. thank you very much.",
                 "I feel better now",
                 "I followed your advice and I'm feeling much more relaxed.",
                 "Thank you for the meditation tips. I'm noticing a positive difference in my mood.",
