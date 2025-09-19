@@ -436,7 +436,7 @@
                 "I'm NOVA, here to provide support and guidance on your emotional journey.",
                 "I am an AI designed to have conversations that support your mental well-being."
             ]
-        };
+        },
         {
             "tag": "skill",
             "patterns": [
